@@ -48,8 +48,12 @@ public class BlackJackGame {
 
     }
 
+
+    public void takeTurn(Player player) {
+
+    }
     //create a method named takeTurn that takes in
-    //player and return nothing
+    //CardPlayer and return nothing
     // the method will:
         //in a while loop
         // ask if they want to draw
