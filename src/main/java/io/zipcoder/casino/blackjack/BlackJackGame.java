@@ -22,6 +22,11 @@ public class BlackJackGame {
 
     //create a method named play with no return type or parameter
     public void play(){
+        Player player = new Player("Robyn");
+
+        CardPlayer dealer = new CardPlayer("Dealer");
+
+
         //deal cards
         //show player their cards
         // ask them how much they want to bet
